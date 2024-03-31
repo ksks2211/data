@@ -1,0 +1,79 @@
+2-letter,fullname,type,country_code
+AR,Arkansas,State,US
+FL,Florida,State,US
+KS,Kansas,State,US
+MO,Missouri,State,US
+NJ,New Jersey,State,US
+PR,Puerto Rico,Outlying area,US
+VA,Virginia,State,US
+AS,American Samoa,Outlying area,US
+GA,Georgia,State,US
+KY,Kentucky,State,US
+MP,Northern Mariana Islands,Outlying area,US
+NM,New Mexico,State,US
+RI,Rhode Island,State,US
+VI,"Virgin Islands, U.S.",Outlying area,US
+AZ,Arizona,State,US
+GU,Guam,Outlying area,US
+LA,Louisiana,State,US
+MS,Mississippi,State,US
+NV,Nevada,State,US
+SC,South Carolina,State,US
+VT,Vermont,State,US
+CA,California,State,US
+HI,Hawaii,State,US
+MA,Massachusetts,State,US
+MT,Montana,State,US
+NY,New York,State,US
+SD,South Dakota,State,US
+WA,Washington,State,US
+CO,Colorado,State,US
+IA,Iowa,State,US
+MD,Maryland,State,US
+NC,North Carolina,State,US
+OH,Ohio,State,US
+TN,Tennessee,State,US
+WI,Wisconsin,State,US
+CT,Connecticut,State,US
+ID,Idaho,State,US
+ME,Maine,State,US
+ND,North Dakota,State,US
+OK,Oklahoma,State,US
+TX,Texas,State,US
+WV,West Virginia,State,US
+AK,Alaska,State,US
+DC,District of Columbia,District,US
+IL,Illinois,State,US
+MI,Michigan,State,US
+NE,Nebraska,State,US
+OR,Oregon,State,US
+UM,United States Minor Outlying Islands,Outlying area,US
+WY,Wyoming,State,US
+AL,Alabama,State,US
+DE,Delaware,State,US
+IN,Indiana,State,US
+MN,Minnesota,State,US
+NH,New Hampshire,State,US
+PA,Pennsylvania,State,US
+UT,Utah,State,US
+AB,Alberta,Province,CA
+MB,Manitoba,Province,CA
+NL,Newfoundland and Labrador,Province,CA
+NT,Northwest Territories,Territory,CA
+ON,Ontario,Province,CA
+QC,Quebec,Province,CA
+YT,Yukon,Territory,CA
+NB,New Brunswick,Province,CA
+BC,British Columbia,Province,CA
+NS,Nova Scotia,Province,CA
+NU,Nunavut,Territory,CA
+PE,Prince Edward Island,Province,CA
+SK,Saskatchewan,Province,CA
+NT,Northern Territory,Territory,AU
+SA,South Australia,State,AU
+VIC,Victoria,State,AU
+NSW,New South Wales,State,AU
+QLD,Queensland,State,AU
+TAS,Tasmania,State,AU
+WA,Western Australia,State,AU
+ACT,Australian Capital Territory,Territory,AU
