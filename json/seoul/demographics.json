@@ -1,0 +1,44 @@
+{
+  "populations": [
+    {
+      "Year": 1950,
+      "Population": 1021000
+    },
+    {
+      "Year": 1960,
+      "Population": 2361000
+    },
+    {
+      "Year": 1970,
+      "Population": 5312000
+    },
+    {
+      "Year": 1980,
+      "Population": 8364379
+    },
+    {
+      "Year": 1990,
+      "Population": 10612577
+    },
+    {
+      "Year": 2000,
+      "Population": 9895217
+    },
+    {
+      "Year": 2010,
+      "Population": 9794304
+    },
+    {
+      "Year": 2015,
+      "Population": 9904312
+    },
+    {
+      "Year": 2020,
+      "Population": 9586195
+    },
+    {
+      "Year": 2023,
+      "Population": 9390000
+    }
+  ]
+}
