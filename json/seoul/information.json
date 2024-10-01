@@ -1,0 +1,8 @@
+{
+  "description":"Seoul, officially Seoul Special City, is the capital and largest city of South Korea. The broader Seoul Capital Area, encompassing Gyeonggi province and Incheon Metropolitan City, emerged as the world's sixth largest metropolitan economy in 2022, trailing behind Paris, San Francisco, Los Angeles, Tokyo, and New York, and hosts more than half of South Korea's population. Although Seoul's population peaked at slightly over 10 million, it has gradually decreased since 2014, standing at approximately 9.97 million residents as of 2020. Seoul is the seat of the South Korean government.",
+  "location" : {
+    "lat" : 37.5503,
+    "lon" : 126.9971
+  },
+  "image_url" : "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
+}
