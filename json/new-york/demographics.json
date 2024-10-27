@@ -1,0 +1,132 @@
+{
+  "demographics": [
+    {
+      "Year": 1698,
+      "Population": 4937
+    },
+    {
+      "Year": 1712,
+      "Population": 5840
+    },
+    {
+      "Year": 1723,
+      "Population": 7248
+    },
+    {
+      "Year": 1737,
+      "Population": 10664
+    },
+    {
+      "Year": 1746,
+      "Population": 11717
+    },
+    {
+      "Year": 1756,
+      "Population": 13046
+    },
+    {
+      "Year": 1771,
+      "Population": 21863
+    },
+    {
+      "Year": 1790,
+      "Population": 33131
+    },
+    {
+      "Year": 1800,
+      "Population": 60515
+    },
+    {
+      "Year": 1810,
+      "Population": 96373
+    },
+    {
+      "Year": 1820,
+      "Population": 123706
+    },
+    {
+      "Year": 1830,
+      "Population": 202589
+    },
+    {
+      "Year": 1840,
+      "Population": 312710
+    },
+    {
+      "Year": 1850,
+      "Population": 515547
+    },
+    {
+      "Year": 1860,
+      "Population": 813669
+    },
+    {
+      "Year": 1870,
+      "Population": 942292
+    },
+    {
+      "Year": 1880,
+      "Population": 1206299
+    },
+    {
+      "Year": 1890,
+      "Population": 1515301
+    },
+    {
+      "Year": 1900,
+      "Population": 3437202
+    },
+    {
+      "Year": 1910,
+      "Population": 4766883
+    },
+    {
+      "Year": 1920,
+      "Population": 5620048
+    },
+    {
+      "Year": 1930,
+      "Population": 6930446
+    },
+    {
+      "Year": 1940,
+      "Population": 7454995
+    },
+    {
+      "Year": 1950,
+      "Population": 7891957
+    },
+    {
+      "Year": 1960,
+      "Population": 7781984
+    },
+    {
+      "Year": 1970,
+      "Population": 7894862
+    },
+    {
+      "Year": 1980,
+      "Population": 7071639
+    },
+    {
+      "Year": 1990,
+      "Population": 7322564
+    },
+    {
+      "Year": 2000,
+      "Population": 8008288
+    },
+    {
+      "Year": 2010,
+      "Population": 8175133
+    },
+    {
+      "Year": 2020,
+      "Population": 8804190
+    },
+    {
+      "Year": 2023,
+      "Population": 8258035
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "demographics": [
+    {
+      "Year": 1920,
+      "Population": 3699428
+    },
+    {
+      "Year": 1925,
+      "Population": 4485144
+    },
+    {
+      "Year": 1930,
+      "Population": 5408678
+    },
+    {
+      "Year": 1935,
+      "Population": 6369919
+    },
+    {
+      "Year": 1940,
+      "Population": 7354971
+    },
+    {
+      "Year": 1945,
+      "Population": 3488284
+    },
+    {
+      "Year": 1950,
+      "Population": 6277500
+    },
+    {
+      "Year": 1955,
+      "Population": 8037084
+    },
+    {
+      "Year": 1960,
+      "Population": 9683802
+    },
+    {
+      "Year": 1965,
+      "Population": 10869244
+    },
+    {
+      "Year": 1970,
+      "Population": 11408071
+    },
+    {
+      "Year": 1975,
+      "Population": 11673554
+    },
+    {
+      "Year": 1980,
+      "Population": 11618281
+    },
+    {
+      "Year": 1985,
+      "Population": 11829363
+    },
+    {
+      "Year": 1990,
+      "Population": 11855563
+    },
+    {
+      "Year": 1995,
+      "Population": 11773605
+    },
+    {
+      "Year": 2000,
+      "Population": 12064101
+    },
+    {
+      "Year": 2005,
+      "Population": 12576601
+    },
+    {
+      "Year": 2010,
+      "Population": 13159388
+    },
+    {
+      "Year": 2015,
+      "Population": 13515271
+    },
+    {
+      "Year": 2020,
+      "Population": 13982112
+    }
+  ]
+}

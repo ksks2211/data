@@ -1,0 +1,52 @@
+{
+  "demographics": [
+    {
+      "Year": 1890,
+      "Population": 64934
+    },
+    {
+      "Year": 1900,
+      "Population": 239820
+    },
+    {
+      "Year": 1920,
+      "Population": 579033
+    },
+    {
+      "Year": 1940,
+      "Population": 1326261
+    },
+    {
+      "Year": 1950,
+      "Population": 2198096
+    },
+    {
+      "Year": 1960,
+      "Population": 3781446
+    },
+    {
+      "Year": 1970,
+      "Population": 5924615
+    },
+    {
+      "Year": 1980,
+      "Population": 8493226
+    },
+    {
+      "Year": 1991,
+      "Population": 9646185
+    },
+    {
+      "Year": 2000,
+      "Population": 10434252
+    },
+    {
+      "Year": 2010,
+      "Population": 11253503
+    },
+    {
+      "Year": 2022,
+      "Population": 11451245
+    }
+  ]
+}

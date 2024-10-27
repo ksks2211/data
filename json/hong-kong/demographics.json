@@ -1,0 +1,84 @@
+{
+  "demographics": [
+    {
+      "Year": 1841,
+      "Population": 7450
+    },
+    {
+      "Year": 1851,
+      "Population": 32983
+    },
+    {
+      "Year": 1861,
+      "Population": 119320
+    },
+    {
+      "Year": 1871,
+      "Population": 120124
+    },
+    {
+      "Year": 1881,
+      "Population": 160402
+    },
+    {
+      "Year": 1891,
+      "Population": 221441
+    },
+    {
+      "Year": 1901,
+      "Population": 368987
+    },
+    {
+      "Year": 1911,
+      "Population": 456739
+    },
+    {
+      "Year": 1921,
+      "Population": 625166
+    },
+    {
+      "Year": 1931,
+      "Population": 840473
+    },
+    {
+      "Year": 1941,
+      "Population": 1639000
+    },
+    {
+      "Year": 1945,
+      "Population": 600000
+    },
+    {
+      "Year": 1951,
+      "Population": 2070000
+    },
+    {
+      "Year": 1961,
+      "Population": 3128648
+    },
+    {
+      "Year": 1971,
+      "Population": 3936630
+    },
+    {
+      "Year": 1981,
+      "Population": 5183400
+    },
+    {
+      "Year": 1991,
+      "Population": 5752000
+    },
+    {
+      "Year": 2001,
+      "Population": 6714300
+    },
+    {
+      "Year": 2011,
+      "Population": 7071600
+    },
+    {
+      "Year": 2021,
+      "Population": 7413070
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "demographics": [
+    {
+      "Year": 1801,
+      "Population": 1011157
+    },
+    {
+      "Year": 1811,
+      "Population": 1197673
+    },
+    {
+      "Year": 1821,
+      "Population": 1450122
+    },
+    {
+      "Year": 1831,
+      "Population": 1729949
+    },
+    {
+      "Year": 1841,
+      "Population": 1917013
+    },
+    {
+      "Year": 1851,
+      "Population": 2286609
+    },
+    {
+      "Year": 1861,
+      "Population": 3094391
+    },
+    {
+      "Year": 1871,
+      "Population": 3902178
+    },
+    {
+      "Year": 1881,
+      "Population": 4709960
+    },
+    {
+      "Year": 1891,
+      "Population": 5565856
+    },
+    {
+      "Year": 1901,
+      "Population": 6226494
+    },
+    {
+      "Year": 1911,
+      "Population": 7157875
+    },
+    {
+      "Year": 1921,
+      "Population": 7553526
+    },
+    {
+      "Year": 1931,
+      "Population": 8098942
+    },
+    {
+      "Year": 1941,
+      "Population": 7987936
+    },
+    {
+      "Year": 1951,
+      "Population": 8164416
+    },
+    {
+      "Year": 1961,
+      "Population": 7781342
+    },
+    {
+      "Year": 1971,
+      "Population": 7449184
+    },
+    {
+      "Year": 1981,
+      "Population": 6608513
+    },
+    {
+      "Year": 1991,
+      "Population": 6887280
+    },
+    {
+      "Year": 2001,
+      "Population": 7172036
+    },
+    {
+      "Year": 2011,
+      "Population": 8173941
+    },
+    {
+      "Year": 2021,
+      "Population": 8799800
+    }
+  ]
+}
